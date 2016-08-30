@@ -1,1 +1,1 @@
-
+Esta pasta contêm a documentação sobre o projeto a ser desenvolvido
