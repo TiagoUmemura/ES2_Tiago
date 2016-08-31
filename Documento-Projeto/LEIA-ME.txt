@@ -1,1 +1,5 @@
-Esta pasta contêm a documentação sobre o projeto a ser desenvolvido
+Esta pasta contêm a documentação sobre o projeto a ser desenvolvido.
+Chklist03.ods contêm o checklist sobre o repositório analisado(Maisa Barreto).
+ES2_TAP03 é o modelo do termo de abertura de projeto.
+P3-Memorial.odt é o documento de requisitos do memorial.
+PGP_03.odt é o documento do plano de gerenciamento de projeto.
