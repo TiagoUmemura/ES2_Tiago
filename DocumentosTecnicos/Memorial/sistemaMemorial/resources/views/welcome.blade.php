@@ -80,10 +80,6 @@
                     Sistema Memorial
                 </div>
             </div>
-
-            <div style="background-image:url('http://blog.dev/images/8_big.jpg');height:45px;border-radius:5px;position:relative;">
-            </div>
-
         </div>
     </body>
 </html>
